@@ -6,14 +6,14 @@
 
 /* VARIABLE DEFINITIONS */
 :root {
-  --primary: #79aec8;
-  --secondary: #417690;
+  --primary: #79c8bb;
+  --secondary: #419076;
   --accent: #f5dd5d;
   --primary-fg: #fff;
 
   --body-fg: #333;
   --body-bg: #fff;
-  --body-quiet-color: #666;
+  --body-quiet-color: rgb(168, 128, 128);
   --body-loud-color: #000;
 
   --header-color: #ffc;
@@ -25,9 +25,9 @@
   --breadcrumbs-link-fg: var(--body-bg);
   --breadcrumbs-bg: var(--primary);
 
-  --link-fg: #447e9b;
-  --link-hover-color: #036;
-  --link-selected-fg: #5b80b2;
+  --link-fg: #449b94;
+  --link-hover-color: rgb(0, 102, 80);
+  --link-selected-fg: #5bb2ab;
 
   --hairline-color: #e8e8e8;
   --border-color: #ccc;
